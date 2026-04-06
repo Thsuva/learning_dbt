@@ -1,0 +1,6 @@
+sources:
+  - name: demo
+    database: SNOWFLAKE_LEARNING_DB 
+    schema: DEMO_SCHEMA 
+    tables:
+      - name: WEATHER
